@@ -56,8 +56,8 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: "Values",
-              name: "values",
+              label: "About",
+              name: "about",
               widget: "object",
               fields:
                 [
