@@ -56,8 +56,8 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: "Values",
-              name: "values",
+              label: "About",
+              name: "about",
               widget: "object",
               fields:
                 [
@@ -187,14 +187,14 @@ collections: # A list of collections the CMS should be able to edit
                   },
                 ],
             }
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
+      - file: "site/content/about/_index.md"
+        label: "About Page"
+        name: "about"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
-          - label: Values
-            name: values
+          - label: about
+            name: about
             widget: list
             fields:
               - { label: Heading, name: heading, widget: string }
