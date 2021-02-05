@@ -1,18 +1,18 @@
 ---
 title: "MOCKINBYRD"
-subtitle: Community Driven Game-Developmet Team
+subtitle: Community Driven Game Developmet Team
 image: /img/mb1.jpg
 blurb:
-  heading: Why MOCKINBYRD?
+  heading: What is MOCKINBYRD?
   text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
   heading: "What Are Fantasy Consoles?"
-  text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  text: "Fantasy consoles are consoles that don't really exist. Fantasy consoles are different from emulators where they emulate already made consoles such as the Super Nintendo and Atari but with a Fantasy console, we are playing and creating games for a console (in this case, a program) that someone else made!"
 products:
   - image: img/illustrations-coffee.svg
-    text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    text: "With an ever growing community of hobbyists and professional game devs out there, we strive to offer a place for anyone, albeit regarding what your day job is to code and create cool things with us. We code for game jams and for our enjoyment. You will learn, build, and play cool stuff with us."
   - image: /img/illustrations-coffee-gear.svg
-    text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    text: "Fantasy consoles is a neat way for us young developer who never knew what it was like to code/program back in the hay day of the 80s. With the constant stream of new Fantasy Consoles being release and worked on. It's a nice change of pace for us to be able to boot up Pico-8 or Basic8 and code like we would have back then."
 About:
   heading: About Us
   text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
